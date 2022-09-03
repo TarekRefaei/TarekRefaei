@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TarekMohamedRefaei
 
 
-- 👀 I’m essentially a mechanical Enginner but I am really interested in coding for Mobile and cross platform (iOS , web , Desktop) in addition
+- 👀 I’m Enginner but I am really interested in coding for Android Native and cross platform (iOS , web , Desktop) in addition
 
      to building games with game engine like Flame,unity and unreal
 
